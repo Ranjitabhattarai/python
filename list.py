@@ -14,3 +14,13 @@ tuple3 = ("true", "true", "false")
 print(tuple1)
 print(tuple2)
 print(tuple3)
+
+
+
+pokhara = {
+    "district" : "kaski",
+    "country" : "Nepal",
+    "university" : "pokhara university"
+}
+
+print(pokhara["university"])
