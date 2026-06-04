@@ -21,7 +21,7 @@ class Student(Parent):
 
 
 # Creating Object
-s1 = Student("Ranjita", "Ram Bahadur", "Sita Devi")
+s1 = Student("Ranjita", "indra bhattarai", "bishnu battarai")
 
 # Display Details
 s1.display_student_details()
