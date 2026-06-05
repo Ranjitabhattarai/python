@@ -48,13 +48,13 @@ class Student(Parent):
 
 
 # Creating object
-s1 = Student("Ram", 101, "Hari Prasad", "Sita Devi")
+s1 = Student("Ranjita", 101, "Indra Raj", "Bishnu Maya")
 
 # Display details
 s1.display_details()
 
 # Modifying data using setter methods
-s1.set_student_name("Shyam")
+s1.set_student_name("Ranjit")
 s1.set_roll_no(102)
 
 print("\nAfter Updating:")
